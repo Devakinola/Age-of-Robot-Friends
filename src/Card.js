@@ -1,6 +1,6 @@
 import "./Card.css";
 
-const Card = ({ name, says }) => {
+const Card = ({ name, says, id }) => {
   return (
     <div className=" robo dib ma3 tc grow bg-light-green br3 bw2 shadow-5">
       <img

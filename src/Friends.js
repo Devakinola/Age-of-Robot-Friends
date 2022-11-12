@@ -39,4 +39,14 @@ export const friends = [
     id: 8,
     says: "I don't like you, Akin",
   },
+  {
+    name: "Anjola",
+    id: 9,
+    says: "Where am i?",
+  },
+  {
+    name: "Derek",
+    id: 10,
+    says: "Buy peace of mind",
+  },
 ];

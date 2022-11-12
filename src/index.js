@@ -19,6 +19,8 @@ root.render(
       <Card name={friends[5].name} says={friends[5].says} />
       <Card name={friends[6].name} says={friends[6].says} />
       <Card name={friends[7].name} says={friends[7].says} />
+      <Card name={friends[8].name} says={friends[8].says} />
+      <Card name={friends[9].name} says={friends[9].says} />
     </div>
   </React.StrictMode>
 );
