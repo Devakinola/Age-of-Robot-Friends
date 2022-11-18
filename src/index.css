@@ -9,6 +9,7 @@ body {
   height: 100vh;
   margin-block-start: 0px;
   color: aliceblue;
+  margin: 0 auto;
 }
 
 code {
