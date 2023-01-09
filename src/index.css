@@ -4,7 +4,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #181818;
+  background: linear-gradient(to right, rgb(52, 85, 100), rgb(54, 80, 56));
+
   background-size: cover;
   height: 100vh;
   margin-block-start: 0px;
